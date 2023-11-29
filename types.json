@@ -143,7 +143,7 @@
     "performance": "Skill.Performance",
     "persuasion": "Skill.Persuasion",
     "religion": "Skill.Religion",
-    "sleightOfHand": "Skill.SleightofHand",
+    "sleightOfHand": "Skill.SleightOfHand",
     "stealth": "Skill.Stealth",
     "survival": "Skill.Survival"
   },
@@ -182,7 +182,7 @@
   "Attack": {
     "melee": "Attack.Melee",
     "ranged": "Attack.Ranged",
-    "spell": "Attack.Spell",
+    "spell": "Attack.Spell"
   },
   "Damage": {
     "acid": "Damage.Acid",
@@ -241,7 +241,7 @@
     "veryrare": "ItemRarity.VeryRare",
     "legendary": "ItemRarity.Legendary",
     "artifact": "ItemRarity.Artifact",
-    "unknown": "ItemRarity.Unknown",
+    "unknown": "ItemRarity.Unknown"
   },
   "ItemProperty": {
     "ammunition": "ItemProperty.Ammunition",
@@ -280,7 +280,7 @@
   "ProficiencyLevelIcon": {
     "half": "circle.righthalf.filled",
     "proficient": "circle.fill",
-    "expertise": "circle.tophalf.filled",
+    "expertise": "circle.tophalf.filled"
   },
   "VehicleType": {
     "ship": "Vehicle.Ship",
@@ -314,7 +314,7 @@
     "spells": "Spells",
     "items": "Items",
     "features": "Features",
-    "other": "Other",
+    "other": "Other"
   },
   "CharacterSectionIcon": {
     "abilities": "flag.fill",
@@ -323,13 +323,13 @@
     "spells": "bolt.fill",
     "items": "archivebox.fill",
     "features": "list.bullet",
-    "other": "note.text",
+    "other": "note.text"
   },
   "HitDie": {
     "6": "HitDie.D6",
     "8": "HitDie.D8",
     "10": "HitDie.D10",
-    "12": "HitDie.D12",
+    "12": "HitDie.D12"
   },
   "ChallengeRatingToXP": {
     "0": 10,
